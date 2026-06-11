@@ -1,6 +1,6 @@
-# Databricks Bootcamp 2026
+# Databricks Projects 2026 JUNE
 
-Welcome to the **Databricks Data Lakehouse Project** by **Data With Baraa**.
+Welcome to the **Databricks Data Lakehouse Project** by **Data With Niro**.
 
 This repository contains a complete, real-world **Data Lakehouse implementation** built on Databricks, including datasets, notebooks, SQL examples, and exercises. Everything here is designed to help you understand how modern data teams use Databricks in practice, from data ingestion and transformation to analytics-ready data products.
 
@@ -90,7 +90,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi, I’m **Baraa Khatib Salkini**, also known as **Data With Baraa**.
+Hi, I’m *Chameera Niroshan Perera**, also known as **Data With Niro**.
 I’m a senior data professional and educator with over 17 years of industry experience, working across data engineering, analytics, and modern data platforms. I’ve led large-scale data projects in real companies and now focus on teaching practical, real-world data skills through my courses, YouTube content, and bootcamps.
 My goal is simple: help you understand how data actually works in real systems, not just how to write code.
 
